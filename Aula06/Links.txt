@@ -1,0 +1,5 @@
+https://programming.vip/docs/opencv-python-image-high-pass-filter-and-low-pass-filter.html
+
+https://pythonexamples.org/python-opencv-image-filter-convolution-cv2-filter2d/
+
+https://newbedev.com/python-opencv-low-pass-filter-makes-image-black-and-white-code-example
